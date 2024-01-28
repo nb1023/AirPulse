@@ -1,0 +1,1 @@
+input("Enter the city name: ")
